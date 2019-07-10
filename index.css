@@ -1,0 +1,27 @@
+
+body {
+    font-family: Comic Sans MS, Comic Sans;
+    background-image: url('https://media.giphy.com/media/SHgX30N0E60a4/giphy.gif')
+}
+main {
+    color: gold;
+}
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: blue;
+    display: inline-block;
+    width: auto;
+    background-color: white; 
+    
+}
+img {
+    vertical-align: middle;
+    height: 100px;
+    width: 100px;
+}
+a {
+    background-color: white;
+    width: auto;
+    display: inline-block;
+}
